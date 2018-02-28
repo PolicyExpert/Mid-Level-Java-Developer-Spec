@@ -1,4 +1,4 @@
-# Policy Expert's open technical roles:
+# Open technical roles:
 
 * [Java X 4](https://github.com/PolicyExpert/Open-Technical-Roles/blob/master/Policy%20Expert%20-%20Java%20-%202018.pdf)
 
@@ -21,6 +21,17 @@
     
     * Technologies we would like to see
     `JavaScript` `TDD` `ReactJS` `RxJS` `Mocha` `AWS`
+    
+* [Junior Front End X 1]()
+
+    * Level: Early Career
+    
+    * Full time
+    
+    * Salary £30,000 - £45,000 depending on demonstrable skills
+    
+    * Technologies we would like to see
+    `HTML 5` `CSS` `JavaScript` `Bootstrap` `Less` `Browser Knowledge` `Responsive design`    
 
 **If you wish to apply for any of these roles contact Policy Expert at open-technical-roles@policyexpert.co.uk**
 
