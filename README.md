@@ -8,7 +8,7 @@
     
     * Salary £50,000 - £65,000 depending on demonstrable skills
     
-    * Technologies we would like to see
+    * Technologies we would like to see:
     `Java` `SOLID` `TDD` `HTTP` `REST` `API` `AWS` `Microservices`
 
 * [JavaScript X 1](https://github.com/PolicyExpert/Open-Technical-Roles/blob/master/Policy%20Expert%20-%20JS%20-%202018.pdf)
@@ -19,7 +19,7 @@
     
     * Salary £45,000 - £65,000 depending on demonstrable skills
     
-    * Technologies we would like to see
+    * Technologies we would like to see:
     `JavaScript` `TDD` `ReactJS` `RxJS` `Mocha` `AWS`
     
 * [Junior Front End X 1]()
@@ -30,7 +30,7 @@
     
     * Salary £30,000 - £45,000 depending on demonstrable skills
     
-    * Technologies we would like to see
+    * Technologies we would like to see:
     `HTML 5` `CSS` `JavaScript` `Bootstrap` `Less` `Browser Knowledge` `Responsive design`    
 
 **If you wish to apply for any of these roles contact Policy Expert at open-technical-roles@policyexpert.co.uk**
