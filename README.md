@@ -1,5 +1,3 @@
-# Open technical roles:
-
 * [Java X 4](https://github.com/PolicyExpert/Open-Technical-Roles/blob/master/Policy%20Expert%20-%20Java%20-%202018.pdf)
 
     * Level: Mid Career
