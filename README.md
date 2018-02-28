@@ -31,7 +31,7 @@
     * Technologies we would like to see:
     `HTML 5` `CSS` `JavaScript` `Bootstrap` `Less` `Browser Knowledge` `Responsive design`    
 
-**If you wish to apply for any of these roles contact Policy Expert at open-technical-roles@policyexpert.co.uk**
+**If you wish to apply for any of these roles contact Policy Expert at [open-technical-roles@policyexpert.co.uk](mailTo:open-technical-roles@policyexpert.co.uk)**
 
 ---
 
