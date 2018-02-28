@@ -22,7 +22,7 @@
     * Technologies we would like to see:
     `JavaScript` `TDD` `ReactJS` `RxJS` `Mocha` `AWS`
     
-* [Junior Front End X 1]()
+* [Junior Front End X 1](https://github.com/PolicyExpert/Open-Technical-Roles/blob/master/Front%20End%20Developer%20Job%20Specification.pdf)
 
     * Level: Early Career
     
