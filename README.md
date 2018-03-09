@@ -1,13 +1,3 @@
-* [Java X 4](https://github.com/PolicyExpert/Open-Technical-Roles/blob/master/Policy%20Expert%20-%20Java%20-%202018.pdf)
-
-    * Level: Mid Career
-    
-    * Full time
-    
-    * Salary £50,000 - £65,000 depending on demonstrable skills
-    
-    * Technologies we would like to see:
-    `Java` `SOLID` `TDD` `HTTP` `REST` `API` `AWS` `Microservices`
 
 * [JavaScript X 1](https://github.com/PolicyExpert/Open-Technical-Roles/blob/master/Policy%20Expert%20-%20JS%20-%202018.pdf)
 
