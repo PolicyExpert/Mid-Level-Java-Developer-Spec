@@ -1,14 +1,5 @@
 
-* [JavaScript X 1](https://github.com/PolicyExpert/Open-Technical-Roles/blob/master/Policy%20Expert%20-%20JS%20-%202018.pdf)
-
-    * Level: Early to Mid Career
-    
-    * Full time
-    
-    * Salary £45,000 - £65,000 depending on demonstrable skills
-    
-    * Technologies we would like to see:
-    `JavaScript` `TDD` `ReactJS` `RxJS` `Mocha` `AWS`
+Policy Expert has no open roles at this time. However, we always like to hear from direct candidates (that is, no agencies.) If you feel you would fit well and want to make an introduction, please contact us.
 
 **If you wish to apply for any of these roles contact Policy Expert at [open-technical-roles@policyexpert.co.uk](mailTo:open-technical-roles@policyexpert.co.uk)**
 
@@ -25,4 +16,4 @@ We are told over and over again our hiring approach is relaxed and enjoyable—I
 ---
 
 ### Agencies
-If you are an agency looking to partner with Policy Expert, then please be aware we have a few simple requirements for terms of business. Contact us to discuss.
+Policy Expert has a select few agencies we have worked with over the years, and are not looking to add new providers at this time. 
