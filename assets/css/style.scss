@@ -6,6 +6,8 @@
 .page-header {
   color: $header-heading-color;
   text-align: center;
+  background-color: white;
+  background-image: quidco_pearl_earl_v3_1584x396.jpg
   
   @include large {
     padding: 5rem 6rem;
