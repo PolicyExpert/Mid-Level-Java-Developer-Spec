@@ -3,22 +3,21 @@
 
 @import "{{ site.theme }}";
 
-// Taken out until SR gets involved. 
-// .page-header {
-//   color: $header-heading-color;
-//   text-align: center;
-//   background-color: white;
-//   background-image: url("pe-bkg-img.jpg");
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: white;
+  background-image: url("pe-bkg-img.jpg");
   
-//   @include large {
-//     padding: 5rem 6rem;
-//   }
+  @include large {
+    padding: 5rem 6rem;
+  }
 
-//   @include medium {
-//     padding: 3rem 4rem;
-//   }
+  @include medium {
+    padding: 3rem 4rem;
+  }
 
-//   @include small {
-//     padding: 2rem 1rem;
-//   }
-// }
+  @include small {
+    padding: 2rem 1rem;
+  }
+}
