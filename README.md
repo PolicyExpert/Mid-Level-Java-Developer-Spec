@@ -1,3 +1,5 @@
+![Policy Expert Banner](pe-bkg-img.jpg)
+
 
 Policy Expert has no open roles at this time. However, we always like to hear from direct candidates (that is, no agencies.) If you feel you would fit well and want to make an introduction, please contact us.
 
