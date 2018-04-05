@@ -1,7 +1,7 @@
 ![Policy Expert Banner](/assets/css/pe-bkg-img.jpg)
 
 
-Policy Expert has no open roles at this time. However, we always like to hear from direct candidates (that is, no agencies.) If you feel you would fit well and want to make an introduction, please contact us.
+Policy Expert Tech has no open roles at this time. However, we always like to hear from direct candidates (that is, no agencies.) If you feel you would fit well and want to make an introduction, please contact us.
 
 **If you wish to contact Policy Expert about your development skills, email [open-technical-roles@policyexpert.co.uk](mailTo:open-technical-roles@policyexpert.co.uk)**
 
