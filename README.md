@@ -1,9 +1,19 @@
 ![Policy Expert Banner](/assets/css/pe-bkg-img.jpg)
 
 
-Policy Expert Tech has no open roles at this time. However, we always like to hear from direct candidates (that is, no agencies.) If you feel you would fit well and want to make an introduction, please contact us.
 
-**If you wish to contact Policy Expert about your development skills, email [open-technical-roles@policyexpert.co.uk](mailTo:open-technical-roles@policyexpert.co.uk)**
+* [DevOps X 1](https://github.com/PolicyExpert/Open-Technical-Roles/blob/master/Policy%20Expert%20-%20DevOps%20-%202019.pdf)
+
+    * Level: Mid Career and upwards
+    
+    * Full time
+    
+    * Salary £65,000 - £75,000+ depending on demonstrable skills
+    
+    * Technologies we would like to see:
+    `AWS with IAM`, `EC2`, `VPC`, `ECS`, `Lambda`, `CloudWatch`, `S3`, `Route53`, `RDS`, `ELB/ALB`, `ASG/LC`, `EKS`
+
+**If you wish to apply for any of these roles contact Policy Expert at [open-technical-roles@policyexpert.co.uk](mailTo:open-technical-roles@policyexpert.co.uk)**
 
 ---
 
