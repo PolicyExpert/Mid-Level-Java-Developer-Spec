@@ -12,7 +12,16 @@
     
     * Technologies we would like to see:
     `AWS with IAM`, `EC2`, `VPC`, `ECS`, `Lambda`, `CloudWatch`, `S3`, `Route53`, `RDS`, `ELB/ALB`, `ASG/LC`, `EKS`
+    
 
+* [Agile BA X 3](https://github.com/PolicyExpert/Open-Technical-Roles/blob/master/Policy%20Expert%20-%20BA_PO%20-%202019.pdf)
+
+    * Level: Mid Career and upwards
+    
+    * Full time
+    
+    * Salary £65,000 - £75,000+ depending on demonstrable skills
+    
 **If you wish to apply for any of these roles contact Policy Expert at [open-technical-roles@policyexpert.co.uk](mailTo:open-technical-roles@policyexpert.co.uk)**
 
 ---
