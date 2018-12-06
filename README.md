@@ -12,6 +12,7 @@
 
 <a name="puretech"></a>
 ##Pure technical roles
+
 <a name="javabackend"></a>
 #####Java Backend ([Download full PDF](Policy%20Expert%20-%20Java%20Backend.pdf))
 
@@ -28,6 +29,7 @@
     
 
 <a name="javadata"></a>
+
 #####Java Data
 
     * Full time
@@ -45,6 +47,7 @@
 
 
 <a name="javadevops"></a> 
+
 #####Java/Python DevOps ([Download full PDF](Policy%20Expert%20-%20DevOps.pdf))
 
     * Full time 
@@ -68,11 +71,14 @@ We are told over and over again our hiring approach is relaxed and enjoyable—I
 
 
 To apply, contact Policy Expert at open-technical-roles@policyexpert.co.uk
+
 ---        
 
 
 <a name="biztech"></a> 
+
 ##Business focused technical roles
+
 <a name="poba"></a>
 #####Product Owner / Agile Business Analysts ([Download full PDF](Policy%20Expert%20-%20BA_PO.pdf))
     
@@ -99,9 +105,10 @@ We are told over and over again our hiring approach is relaxed and enjoyable—I
 4. **A relaxed face to face interview:** *Meet more of the team, ask the question you have about us.*
 
 To apply, contact Policy Expert at open-technical-roles@policyexpert.co.uk
+
 ---   
 
 
 
-### Agencies
+## Agencies
 Policy Expert has a select few agencies we have worked with over the years, and are not looking to add new providers at this time. 
