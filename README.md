@@ -32,7 +32,7 @@
 
 <a name="javadata"></a>
 
-##### Java Data
+##### Java Data (PDF coming soon)
 
 * Full time
 * Mid career and upwards
