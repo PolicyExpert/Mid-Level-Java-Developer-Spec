@@ -6,8 +6,8 @@
     * [Java Data](#javadata)
     * [Java/Python DevOps](#javadevops)
     
-* (Business focused technical roles)[#biztech]
-    * Product Owner / Agile Business Analyst[#poba]
+* [Business focused technical roles([#biztech)
+    * [Product Owner / Agile Business Analyst](#poba)
 
 
 <a name="puretech"></a>
