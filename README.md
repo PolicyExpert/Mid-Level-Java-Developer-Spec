@@ -12,11 +12,11 @@
 
 <a name="puretech"></a>
 
-##Pure technical roles
+## Pure technical roles
 
 <a name="javabackend"></a>
 
-#####Java Backend ([Download full PDF](Policy%20Expert%20-%20Java%20Backend.pdf))
+##### Java Backend ([Download full PDF](Policy%20Expert%20-%20Java%20Backend.pdf))
 
     * Full time
     * Mid career and upwards
@@ -32,7 +32,7 @@
 
 <a name="javadata"></a>
 
-#####Java Data
+##### Java Data
 
     * Full time
     * Mid career and upwards
@@ -50,7 +50,7 @@
 
 <a name="javadevops"></a> 
 
-#####Java/Python DevOps ([Download full PDF](Policy%20Expert%20-%20DevOps.pdf))
+##### Java/Python DevOps ([Download full PDF](Policy%20Expert%20-%20DevOps.pdf))
 
     * Full time 
     * Level: Mid Career and upwards        
@@ -80,11 +80,11 @@ To apply, contact Policy Expert at open-technical-roles@policyexpert.co.uk
 
 <a name="biztech"></a> 
 
-##Business focused technical roles
+## Business focused technical roles
 
 <a name="poba"></a>
 
-#####Product Owner / Agile Business Analysts ([Download full PDF](Policy%20Expert%20-%20BA_PO.pdf))
+##### Product Owner / Agile Business Analysts ([Download full PDF](Policy%20Expert%20-%20BA_PO.pdf))
     
     * Full time
     * Salary £65,000 - £75,000+ depending on demonstrable skills
