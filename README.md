@@ -1,7 +1,7 @@
 ![Policy Expert Banner](/assets/css/pe-bkg-img.jpg)
 
 
-* (Pure technical roles)[#puretech]
+* [Pure technical roles](#puretech)
     * [Java Backend](#javabackend)
     * [Java Data](#javadata)
     * [Java/Python DevOps](#javadevops)
