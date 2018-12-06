@@ -64,8 +64,6 @@
 
 #### What to expect from our technical hiring process.
 
-We are told over and over again our hiring approach is relaxed and enjoyable—I know, is that even possible?—Give us a try if you feel a connection.
-
 1. **CV review:** *We don't mind how you learnt software, university or self-taught. It's about your passion and ability to understand what writing software is about.*
 2. **Quick and simple phone interview:** *Back up what you have written on your CV. Explain in your words what you are looking for, and we will do the same.*
 3. **Home coding assessment:** *Small and quickly completed, this allows you to show us your best code.*
@@ -101,8 +99,6 @@ To apply, contact Policy Expert at open-technical-roles@policyexpert.co.uk
 
 
 #### What to expect from our business focused technical hiring process.
-
-We are told over and over again our hiring approach is relaxed and enjoyable—I know, is that even possible?—Give us a try if you feel a connection.
 
 1. **CV review:** *We don't mind how you learnt software, university or self-taught. It's about your passion and ability to understand what writing software is about.*
 2. **Quick and simple phone interview:** *Back up what you have written on your CV. Explain in your words what you are looking for, and we will do the same.*
