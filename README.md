@@ -3,7 +3,6 @@
 
 * [Pure technical roles](#puretech)
     * [Java Backend](#javabackend)
-    * [Java Data](#javadata)
     * [Java/Python DevOps](#javadevops)
     
 * [Business focused technical roles](#biztech)
@@ -28,26 +27,7 @@
 * AWS products
 * Distributed architecture experience, including microservices
 * Having experience in Pact contract testing, DDD, Event source architectures will be a bonus
-    
-
-<a name="javadata"></a>
-
-##### Java Data (PDF coming soon)
-
-* Full time
-* Mid career and upwards
-* Salary £65,000 - £75,000+ depending on demonstrable skills
-* Core Java 8+
-* Clean code practitioner
-* SOLID principles
-* TDD and BDD
-* Java concurrency-related knowledge (threads, executors, and management)
-* Excellent SQL
-* Understanding of data warehousing (DW) concepts and schema design
-* Streaming/event-driven data processing Data-driven/batch processing and service design/architecture. 
-* Experience with https://docs.aws.amazon.com/aws-technical-content/latest/aws-overview/analytics-services.html
-
-
+   
 <a name="javadevops"></a> 
 
 ##### Java/Python DevOps ([Download full PDF](Policy%20Expert%20-%20DevOps.pdf))
